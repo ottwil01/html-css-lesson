@@ -1,0 +1,16 @@
+p {
+    color: #0026ff;
+}
+h1 {
+    color: rgb(13, 255, 0);
+}
+.bold-red {
+    color: red;
+    font-weight: bold;
+}
+.big {
+    font-size: 2rem;
+}
+.font {
+    font-style: oblique;
+}
